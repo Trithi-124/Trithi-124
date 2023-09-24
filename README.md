@@ -4,13 +4,9 @@ I am Trithi Naikrane. My date of birth is 23 June 2005. I have done most of scho
 
 My hobbies include Crocheting and Reading. I love reading non-fiction books. Some of my favourite genres are classics and contemporary. My favourite book is Anne of the Island.
 
-Currently I am pursuing an Engineering Degree in Mechanical Engineering discipline in Karnataka.
+Currently I am pursuing a Mechanical Engineering degree in Karnataka.
 
-
-- 👀 I’m interested in 
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+You can reach me on txnrane@gmail.com or 01fe23bme028@kletech.ac.in
 
 <!---
 Trithi-124/Trithi-124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
