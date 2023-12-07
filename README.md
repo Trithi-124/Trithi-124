@@ -1,9 +1,6 @@
 Introduction
 
-I am Trithi Naikrane. My date of birth is 23 June 2005.
-
-
-My hobbies include Crocheting and Reading. I love reading non-fiction books. Some of my favourite genres are classics and contemporary. My favourite book is Anne of the Island.
+I am Trithi Naikrane.
 
 Currently I am pursuing a Mechanical Engineering degree in Karnataka.
 
